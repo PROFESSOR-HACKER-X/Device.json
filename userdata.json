@@ -1,6 +1,6 @@
 [
     {
-        "device_id": "e0a606df56f364df",
+        "device_id": "42c6ccd5d8f4cd1d",
         "key": "7860",
         "expirydate": "31-12-2025",
         "Allowoffline": true
@@ -13,6 +13,12 @@
     },
     {
         "device_id": "e0a606df56f364df",
+        "key": "1122",
+        "expirydate": "15-11-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "42c6ccd5d8f4cd1d",
         "key": "1122",
         "expirydate": "15-11-2025",
         "Allowoffline": false
